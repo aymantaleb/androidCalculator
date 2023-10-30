@@ -1,5 +1,4 @@
-# androidCalculator
-Calculator by Ayman Taleb 11/04/2021 for EECS 40 at UCI
+Calculator by Ayman Taleb 11/04/2021
 
 All files needed are in the directories provided. 
 All the online resources I used are listed in the statement.txt file

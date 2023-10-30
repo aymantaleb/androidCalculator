@@ -1,0 +1,15 @@
+Online resourses:
+https://www.youtube.com/watch?v=NSM3DbgJ0tw android studio tutorial
+https://www.geeksforgeeks.org/convert-string-to-double-in-java/ string pasring
+https://stackoverflow.com/questions/22084373/does-java-have-an-exponential-operator Math and exponents 
+https://stackoverflow.com/questions/36261421/how-to-change-android-button-text-color-globally-in-theme changing button color
+https://stackoverflow.com/questions/29047902/how-to-add-an-image-to-the-drawable-folder-in-android-studio adding images to the activity_main/UI
+https://www.geeksforgeeks.org/designing-the-landscape-and-portrait-mode-of-application-in-android/ landscape 
+https://www.youtube.com/watch?v=aE5f1tV5nU4 controling buttons with java
+https://www.youtube.com/watch?v=NSM3DbgJ0tw editText with java
+https://www.w3schools.com/java/java_arraylist.asp arraylists info
+https://www.geeksforgeeks.org/bigdecimal-round-method-in-java/ big decimal rounding 
+
+
+Collaborated with:
+Maxwell Blocker
